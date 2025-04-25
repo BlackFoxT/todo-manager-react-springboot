@@ -128,7 +128,7 @@ Here are sample screenshots from the working application:
 ![Main Page](screenshots/mainpage.png)
 
 ### 👤 Profile Page
-![Profile Page](screenshots/profile.png)
+![Profile Page](screenshots/profilepage.png)
 
 ### ➕ Create Todo Page
 ![Create Todo Page](screenshots/createpage.png)
