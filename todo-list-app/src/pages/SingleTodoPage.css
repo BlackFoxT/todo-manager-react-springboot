@@ -1,0 +1,33 @@
+.single-todo-page {
+  margin-top: 20px;
+}
+
+.todo-details {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.todo-details h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  width: 48%;
+  margin: 0 1%;
+}
+
+.error {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #b93b3b;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

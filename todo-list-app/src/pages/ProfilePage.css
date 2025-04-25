@@ -1,0 +1,37 @@
+.profile-page {
+  margin-top: 20px;
+}
+
+.profile-container {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-container h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-group label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  width: 48%;
+  margin: 0 1%;
+}
+
+.error {
+  margin-top: 10px;
+}
+
+.success {
+  margin-top: 10px;
+}

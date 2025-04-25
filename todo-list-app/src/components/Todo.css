@@ -1,0 +1,30 @@
+.todo-card {
+  border-radius: 10px;
+  transition: box-shadow 0.3s ease;
+}
+
+.todo-card:hover {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.todo-status .badge {
+  font-size: 14px;
+}
+
+.todo-actions button {
+  width: 48%;
+}
+
+.todo-actions button:disabled {
+  background-color: #ccc;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #555;
+}
